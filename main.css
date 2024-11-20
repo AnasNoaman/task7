@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #1ABC9C;
+    color: white;
+   padding-bottom: 50px;
+   
+}
+.Portfolio:hover{
+    color: #1ABC9C;
+}
+.about:hover{
+    color: #1ABC9C;
+}
+.contact:hover{
+    color: #1ABC9C;
+}
+.nav{
+    height: 104px;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #2C3E50;
+    justify-content: center;
+    align-items: center;
+    position:sticky;
+    top: 0;
+    text-decoration: none;
+}
+
+.avatar{
+    width: 240px;
+    height: 250px;
+}
+.a{
+    width: 1000px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: end;
+   
+}
+.pac{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.startboot{
+    font-size: 30px;
+}
+.first{
+    padding-top: 50px;
+    text-align: center;
+    justify-content: center;
+}
+.sb{
+    font-size: 70px;
+}
+.fq{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.gwi{
+    font-size: 30px;
+}
+.star{
+    font-size: 30px;
+}
+.Portfoliop{
+    color: #2C3E50;
+    font-size: 40px;
+   padding-top: 96px;
+    padding-bottom: 96px;
+    text-align: center;
+   
+}
+.products{
+    width: 1140px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+.pic1{
+    border-radius: 12px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 356px;
+    height: 257px;
+}
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.productv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.aboutm{
+    color: white;
+    align-items: center;
+    font-size: 40px;
+    
+    background-color: #1ABC9C;
+    text-align: center;
+    padding: 96px 0px;
+}
+.para{
+    font-size: 20px;
+    width:356px ;
+    height: 150px ;
+    text-align: start;
+    padding:0 16px ;
+    
+
+}
+.aboutme{
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.download{
+    border: solid;
+    border-radius: 12px;
+    border-color: white;
+    color:white;
+    background-color: #1ABC9C;
+    border-width: 1px;
+    padding: 16px 28px;
+}
+.contact-me{
+    padding-top: 96px;
+    text-align: center;
+    font-size: 40px;
+    color:#2C3E50 ;
+    padding-bottom: 96px;
+    
+}
+.contacte{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.input{
+    font-size: 20px;
+    width: 641px;
+    height: 88px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+   
+}
+form{
+    padding: 28px 0;
+    
+    width: 641px;
+}
+.submet{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: #1ABC9C;
+    border-color: #1ABC9C;
+    color: white;
+    border: solid;
+}
+.footer{
+    font-size: 25px;
+    color: white;
+    background-color: #2C3E50;
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.conect{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.fa{
+    border-width: 5px;
+    border-color: white;
+    padding: 10px;
+    border-radius: 50%;
+    border: solid;
+    margin: 5px;
+    
+    
+}
+.ba{
+    padding: 15px 0;
+    width: 30%;
+}
+.cv{
+    padding: 15px 0;
+}
+.copyri{
+    background-color: rgb(26, 37, 47);
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+}
